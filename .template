@@ -1,0 +1,12 @@
+
+Vendor=WCH
+MCU=CH582M
+Mcu Type=CH58x
+Link=WCH-Link
+Address=0x00000000
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+CLKSpeed=1
+Target Path=obj/CH583_AT_MultiCentral.hex
